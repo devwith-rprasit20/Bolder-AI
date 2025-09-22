@@ -137,6 +137,8 @@ export const fetchAlerts = async () => {
 
 ## 🚨 Alert System
 
+<img width="1530" height="905" alt="image" src="https://github.com/user-attachments/assets/c9d2335d-c648-450e-9bb0-4e6cf6e168db" />
+
 ### Notification Types
 - **SMS**: Critical alerts sent via SMS
 - **Email**: Detailed alerts with attachments
@@ -190,6 +192,7 @@ Each alert includes suggested actions based on:
 ```bash
 npm test
 ```
+
 
 ### Test Coverage
 - Component unit tests
@@ -254,6 +257,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Multi-language Support**: Internationalization
 - **Cloud Deployment**: Scalable cloud infrastructure
 
+- <img width="1532" height="997" alt="Screenshot 2025-09-22 214103" src="https://github.com/user-attachments/assets/06ef0381-74b6-4082-8b89-d8d92062330b" />
+
+<img width="1542" height="1061" alt="Screenshot 2025-09-22 213859" src="https://github.com/user-attachments/assets/b3074c43-da96-4e26-afb5-fb77252f2dcf" />
+
+
+
 ### Roadmap
 - **Q1 2024**: Mobile app development
 - **Q2 2024**: ML model integration
@@ -270,3 +279,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⚠️ Disclaimer**: This is a demonstration system. For production use in actual mining operations, ensure proper testing, validation, and compliance with industry safety standards.
+
+
+
