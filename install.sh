@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash next day
 
 # Rockfall Detection System - Installation Script
 echo "🚀 Installing Rockfall Detection System..."
