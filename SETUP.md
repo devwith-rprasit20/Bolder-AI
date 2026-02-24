@@ -1,6 +1,6 @@
 # Setup Guide - Rockfall Detection System
 
-## Prerequisites
+
 
 Before installing the Rockfall Detection System, ensure you have the following installed:
 
@@ -233,4 +233,5 @@ When reporting issues, please include:
 ---
 
 **Note**: This is a demonstration system. For production use in actual mining operations, ensure proper testing, validation, and compliance with industry safety standards.
+
 
